@@ -6,4 +6,4 @@ spring.datasource.url = jdbc:mysql://localhost:#portNumber/#dbName
 spring.datasource.username = #username
 spring.datasource.password = #password
 Add data baseinfo of your SQL DB
-Use postman to test CRUD operation
+Use postman to test CRUD operation.
